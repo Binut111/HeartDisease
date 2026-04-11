@@ -2,19 +2,19 @@
 
 In this project, we'll explore the application of machine learning algorithms to predict the presence of heart disease based on patients' medical attributes. We'll follow a structured methodology, starting with problem understanding and concluding with model evaluation. Let's delve into the details:
 
-# Introduction
+## Introduction
 
 Cardiovascular diseases remain a significant cause of mortality worldwide. Early detection and diagnosis are critical for effective treatment and prevention. Machine learning offers a promising approach for predicting heart disease using patient data.
 
-# Data
+## Data
 
 We'll utilize the Heart Disease UCI dataset from the UCI Machine Learning Repository. This dataset contains diverse medical features like age, gender, cholesterol levels, and exercise-induced angina, along with a target variable indicating heart disease presence or absence.
 
-# Problem Statement
+## Problem Statement
 
 Our aim is to develop a machine learning model that accurately determines whether a patient has heart disease based on their medical attributes.
 
-# Approach
+## Approach
 
 1. Exploratory Data Analysis (EDA): Analyzing the dataset to understand feature distributions and discover correlations or patterns.
 2. Data Preprocessing: Handling missing data, encoding categorical variables, and normalizing numerical features.
@@ -27,7 +27,7 @@ Our aim is to develop a machine learning model that accurately determines whethe
 9. Final Model Selection: Choosing the best-performing model for deployment.
 10. Experimentation: Iterating on the model and exploring alternative approaches to enhance performance.
 
-# Conclusion
+## Conclusion
 
 Through systematic experimentation and evaluation, our goal is to develop a robust machine learning model capable of accurately predicting heart disease. This project underscores the potential of machine learning techniques in healthcare for improved diagnosis and patient care.
 
