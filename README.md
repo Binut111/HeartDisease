@@ -12,7 +12,7 @@ We'll utilize the Heart Disease UCI dataset from the UCI Machine Learning Reposi
 ### Main Clinical Variables
 
 | Variables | Type | Data Type |
-|---|---|
+|---|---|---|
 | age | Numerical | Patient Age |
 | sex | Categorical | Patient Gender |
 | cp | Categorical | Chest Pain |
