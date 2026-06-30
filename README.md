@@ -19,7 +19,7 @@ We'll utilize the Heart Disease UCI dataset from the UCI Machine Learning Reposi
 | trestbps | Numerical | Resting Blood Pressure Measure |
 | chol | Numerical | Cholesterol Level |
 | restecg | Categorical | ECG observation at resting condition |
-| thalach | Numerical | heart_rate Age |
+| thalach | Numerical | Heart Rate |
 | exang | Categorical | exercise-induced angina (True/ False) |
 | oldpeak | Numerical | ST depression |
 | slope | Categorical | Slope of the peak exercise ST segment |
