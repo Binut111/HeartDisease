@@ -9,6 +9,23 @@ Cardiovascular diseases remain a significant cause of mortality worldwide. Early
 ## Data
 
 We'll utilize the Heart Disease UCI dataset from the UCI Machine Learning Repository. This dataset contains diverse medical features like age, gender, cholesterol levels, and exercise-induced angina, along with a target variable indicating heart disease presence or absence.
+### Main Clinical Variables
+
+| Variables | Type | Data Type |
+|---|---|
+| age | Numerical | Patient Age |
+| sex | Categorical | Patient Gender |
+| cp | Categorical | Chest Pain |
+| trestbps | Numerical | Resting Blood Pressure Measure |
+| chol | Numerical | Cholesterol Level |
+| restecg | Categorical | ECG observation at resting condition |
+| thalach | Numerical | heart_rate Age |
+| exang | Categorical | exercise-induced angina (True/ False) |
+| oldpeak | Numerical | ST depression |
+| slope | Categorical | Slope of the peak exercise ST segment |
+| ca | Categorical | number of major vessels (0-3) colored by fluoroscopy |
+| thal | Categorical | normal/ fixed defect/reversible defect |
+| target | Numerical | Target |
 
 ## Problem Statement
 
